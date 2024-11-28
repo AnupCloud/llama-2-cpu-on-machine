@@ -2,9 +2,6 @@
 
 # How to run?
 
-# Workflow
-![img.png](img.png)
-
 ### Steps 1:
 
 clone the repository
