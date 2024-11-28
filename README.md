@@ -15,7 +15,7 @@ git clone https://github.com/
 Create a virtual environment
 
 ```bash
-conda create -n cpullama python=3.8 -y
+conda create -n cpullama python=3.10.11 -y
 ```
 
 ```bash
