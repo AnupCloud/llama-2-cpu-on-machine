@@ -7,7 +7,7 @@
 clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/AnupCloud/llama-2-cpu-on-machine.git
 ```
 
 ### Steps 2:
