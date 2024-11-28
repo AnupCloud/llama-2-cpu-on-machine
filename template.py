@@ -13,9 +13,7 @@ list_of_files = [
     "model/instruction.txt",
     "requirements.txt",
     "setup.py",
-    "main.py",
-    "research/trials.ipynb",
-
+    "app.py",
 ]
 
 
