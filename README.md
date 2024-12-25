@@ -1,8 +1,7 @@
 # llama-2-cpu-on-machine
-
-# How to run?
 An Intelligent Document Retrieval and Question-Answering System powered by RAG Architecture
 
+# How to run?
 ### Steps 1:
 
 clone the repository
